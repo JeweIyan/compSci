@@ -65,6 +65,6 @@ public class Dog{
     @Override
     //overriding toString
     public String toString(){
-        return "dogs name:" + name + "| " + name + "'s breed:" + breed + "| is " + name + " hungry:" + isHungry + "| " + name + "'s weight:" + weight + name;
+        return "dogs name:" + name + "| " + name + "'s breed:" + breed + "| is " + name + " hungry:" + isHungry + "| " + name + "'s weight:" + weight;
     }
 }
